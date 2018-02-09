@@ -1,0 +1,11 @@
+.bg,.row{
+    height: 100%;
+  }
+  .bg{
+    background: url('../../assets/imgs/bg.jpg');
+    background-size: cover;
+  }
+small {
+    display: block;
+    margin-top: 5px;
+  }

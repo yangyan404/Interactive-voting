@@ -1,0 +1,14 @@
+.alert{
+    font-size: 12px;
+}
+.alert-warning{
+    margin-top: 5px;
+}
+form{
+    padding-top: 24px;
+    padding: 0 20px;
+}
+.btn-success{
+    margin-bottom: 28px;
+}
+
